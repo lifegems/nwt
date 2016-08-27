@@ -1,2 +1,2 @@
 # nwt
-[Table of Contents](../toc.md)
+[Table of Contents](toc.md)
