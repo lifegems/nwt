@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head></head>
+<body>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script>
+  $(document).ready(function() {
+    $.getJSON("https://www.jw.org/en/publications/bible/nwt/books/json/html/01001000-01001999", function(data) {
+      console.log(data);
+    });
+  });
+  </script>
+</body>
